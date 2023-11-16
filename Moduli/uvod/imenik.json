@@ -1,0 +1,20 @@
+[
+  {
+    "ime": "Alice",
+    "prezime": "Smith",
+    "telefon": " 555-1234",
+    "email": "alices@gmail.com"
+  },
+  {
+    "ime": "Bob",
+    "prezime": "Buttons",
+    "telefon": "555-2525",
+    "email": "bobb@gmail.com"
+  },
+  {
+    "ime": "Jonh",
+    "prezime": "Doe",
+    "telefon": "555-0101",
+    "email": "jonhd@gmail.com"
+  }
+]
